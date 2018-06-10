@@ -17,5 +17,6 @@
 
 * 実行方法
 ```
+$ bundle install --path .bundle
 $ bundle exec ruby run_mecha.rb
 ```
